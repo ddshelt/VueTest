@@ -1,1 +1,12 @@
- 
+ div > p {
+  text-align: center;
+  font-size: 200%
+ }
+
+ div > form {
+   text-align: center;
+ }
+
+ table {
+   border-spacing: 25px
+ }

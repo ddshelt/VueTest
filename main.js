@@ -1,7 +1,8 @@
 new Vue({
-  el: #app
+  el: '#app',
   data:{
-    msg: "Hello from Vue!"
+    msg: 'Hello from Vue!',
+    equation:900000
   }
 
-}), 
+});
